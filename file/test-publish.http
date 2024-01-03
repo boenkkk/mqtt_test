@@ -1,0 +1,5 @@
+###
+POST http://localhost:8080/api/mqtt/publish
+Content-Type: application/json
+
+{"message": "Hello world"}
